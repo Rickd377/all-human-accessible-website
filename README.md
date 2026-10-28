@@ -11,17 +11,24 @@ Obstakels vinden en oplossingen maken bij het omzetten van het ontwerp naar een 
 Een collectie van repositories (online werkomgeving waar alle code te vinden is) met gedocumenteerde oplossingingen en veranderingen aan het design. Ook de gebruikte technieken.
 
 ### repositories:
-- Xin: https://github.com/XinJuliette/all-human-accessible-website
-       https://github.com/XinJuliette/the-client-website
-- Rick: https://github.com/Rickd377/all-human-accessible-website
-        https://github.com/Rickd377/pediaconnect
-- David: https://github.com/Davidoo379/all-human-accessible-website
-         https://github.com/Davidoo379/the-client-website
-- Chahed: https://github.com/Chahedddd/all-human-accessible-website
-          https://github.com/Chahedddd/the-client-website
-- Savannah: https://github.com/savannahvdheld/all-human-accessible-website
-            https://github.com/savannahvdheld/the-client-website
-- Wesley: https://github.com/toonicwesley/all-human-accessible-website
-          https://github.com/toonicwesley/the-client-website
-- Sam: https://github.com/SambalSamss/all-human-accessible-website
-       https://github.com/SambalSamss/the-client-website
+- Xin: 
+  - https://github.com/XinJuliette/all-human-accessible-website
+  - https://github.com/XinJuliette/the-client-website
+- Rick: 
+  - https://github.com/Rickd377/all-human-accessible-website
+  - https://github.com/Rickd377/pediaconnect
+- David: 
+  - https://github.com/Davidoo379/all-human-accessible-website
+  - https://github.com/Davidoo379/the-client-website
+- Chahed: 
+  - https://github.com/Chahedddd/all-human-accessible-website
+  - https://github.com/Chahedddd/the-client-website
+- Savannah: 
+  - https://github.com/savannahvdheld/all-human-accessible-website
+  - https://github.com/savannahvdheld/the-client-website
+- Wesley: 
+  - https://github.com/toonicwesley/all-human-accessible-website
+  - https://github.com/toonicwesley/the-client-website
+- Sam: 
+  - https://github.com/SambalSamss/all-human-accessible-website
+  - https://github.com/SambalSamss/the-client-website
